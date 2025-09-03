@@ -48,3 +48,6 @@ def showmenu():
 
 
 showmenu()
+
+
+print("Thank you for logging in today. Hope to see you again")
